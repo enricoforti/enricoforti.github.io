@@ -24,8 +24,6 @@ Enrico has taught graduate and undergraduate courses at various institutions in 
 
 # Publications
 
-## Refereed Journal Articles
-
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
   - Finalist - 2019 SMS Annual Conference Strategic Human Capital Best Paper Prize
@@ -42,10 +40,8 @@ Enrico has taught graduate and undergraduate courses at various institutions in 
 
 - Forti E, Sobrero M, Vezzulli A. (2011). _Managing Trade-Offs Within and Across Decision Domains: Continuity, Change and New Product Performance_. Best Paper Proceedings of the Academy of Management Meeting. <a href="https://journals.aom.org/doi/10.5465/ambpp.2011.65870486">https://journals.aom.org/doi/10.5465/ambpp.2011.65870486</a> 
 
-## Book Chapters
-
 - Soda G., Forti E. (2013). _Technological Foundations for a Sustainable Competitive Edge_ in Bergami, M., Celli, P. L., & Soda, G. (2013), National Monopoly to Successful Multinational: The Case of Enel. New York: Palgrave Macmillan. ISBN: 978-1-349-44162-4 <a href="https://link.springer.com/chapter/10.1057/9781137033901_11">https://link.springer.com/chapter/10.1057/9781137033901_11</a> 
 
-- Soda G., Forti E. (2013). “2008-2010: Enel Today” in Bergami, M., Celli, P. L., & Soda, G. (2013), National Monopoly to Successful Multinational: The Case of Enel. New York: Palgrave Macmillan. ISBN: 978-1-349-44162-4 href="https://link.springer.com/chapter/10.1057/9781137033901_5">https://link.springer.com/chapter/10.1057/9781137033901_5</a>
+- Soda G., Forti E. (2013). “2008-2010: Enel Today” in Bergami, M., Celli, P. L., & Soda, G. (2013), National Monopoly to Successful Multinational: The Case of Enel. New York: Palgrave Macmillan. ISBN: 978-1-349-44162-4 <a href="https://link.springer.com/chapter/10.1057/9781137033901_5">https://link.springer.com/chapter/10.1057/9781137033901_5</a>
 
 - Forti E., Franzoni C, Sobrero M. (2007). “The Effect of Patenting on the Networks and Connections of Academic Scientists”. In: Sri Krishna C. Academic Patents: Emerging Issues and Challenges. ISBN: 8131413497: Icfai University Press (India).
