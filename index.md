@@ -1,5 +1,3 @@
-# Enrico Forti
-
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
 - [x] Assistant professor of Strategy in the O'Malley School of Business at Manhattan College, New York.
@@ -14,7 +12,7 @@ Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a
   <a href="https://scholar.google.com/citations?hl=en&amp;user=G4jC5vcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a><br/>
 
 
-### Publications
+# Publications
 
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
