@@ -6,19 +6,16 @@
 - [ ] Astronaut
 
 Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a>
-<div>&nbsp;</div>
 
-Find me on:
 
   <a href="https://twitter.com/fortienrico" target="_blank">Twitter</a><br/>
   <a href="https://www.linkedin.com/in/enricoforti" target="_blank">Linkedin</a><br/>
   <a href="https://scholar.google.com/citations?hl=en&amp;user=G4jC5vcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a><br/>
-  <a href="http://github.com/enricoforti" target="_blank">GitHub</a>
 
 
 ### Publications
 
-- Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** https://doi.org/10.1287/orsc.2020.1376 _Equally contributed. Authors listed in alphabetical order._
+- Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376" target="_blank">https://doi.org/10.1287/orsc.2020.1376</a> _Equally contributed. Authors listed in alphabetical order._ [open access]
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
   - Finalist - 2019 SMS Annual Conference Strategic Human Capital Best Paper Prize
 - Forti E, Sobrero M, Vezzulli A. (2020) _Continuity, Change and New Product Performance: The Role of Stream Concentration_. **Journal of Product Innovation Management** https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521 [open access]
