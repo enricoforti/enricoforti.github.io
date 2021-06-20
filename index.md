@@ -1,8 +1,8 @@
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
-- [x] Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
-- [x] Chazen Adjunct Associate Research Scholar - Columbia Business School, Columbia University, New York, NY.
-- [x] Lover of sci-fi and synthesizers
+- Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
+- Chazen Adjunct Associate Research Scholar - Columbia Business School, Columbia University, New York, NY.
+- Lover of sci-fi and synthesizers
 
 Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a>
 
@@ -12,7 +12,19 @@ Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a
   <a href="https://scholar.google.com/citations?hl=en&amp;user=G4jC5vcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a><br/>
 
 
+# About
+
+Enrico Forti is an Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College and a Chazen Visiting Associate research Scholar at Columbia Business School.
+
+His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution and contemporary industries that are migrating toward more fluid and project-based production. His work has been published in leading academic journals, such as Organization Science, Strategic Entrepreneurship Journal, Journal of Product Innovation Management, and Research Policy.
+
+He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
+
+Enrico has taught graduate and undergraduate courses at various institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University.
+
 # Publications
+
+## Refereed Journal Articles
 
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
@@ -29,3 +41,11 @@ Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a
 - Forti E, Jong S. (2014). _Strategic Discipline in Technology Ventures_. Best Paper Proceedings of the Academy of Management Meeting. <a href="https://journals.aom.org/doi/10.5465/ambpp.2014.143">https://journals.aom.org/doi/10.5465/ambpp.2014.143</a> 
 
 - Forti E, Sobrero M, Vezzulli A. (2011). _Managing Trade-Offs Within and Across Decision Domains: Continuity, Change and New Product Performance_. Best Paper Proceedings of the Academy of Management Meeting. <a href="https://journals.aom.org/doi/10.5465/ambpp.2011.65870486">https://journals.aom.org/doi/10.5465/ambpp.2011.65870486</a> 
+
+## Book Chapters
+
+- Soda G., Forti E. (2013). _Technological Foundations for a Sustainable Competitive Edge_ in Bergami, M., Celli, P. L., & Soda, G. (2013), National Monopoly to Successful Multinational: The Case of Enel. New York: Palgrave Macmillan. ISBN: 978-1-349-44162-4 <a href="https://link.springer.com/chapter/10.1057/9781137033901_11">https://link.springer.com/chapter/10.1057/9781137033901_11</a> 
+
+- Soda G., Forti E. (2013). “2008-2010: Enel Today” in Bergami, M., Celli, P. L., & Soda, G. (2013), National Monopoly to Successful Multinational: The Case of Enel. New York: Palgrave Macmillan. ISBN: 978-1-349-44162-4 href="https://link.springer.com/chapter/10.1057/9781137033901_5">https://link.springer.com/chapter/10.1057/9781137033901_5</a>
+
+- Forti E., Franzoni C, Sobrero M. (2007). “The Effect of Patenting on the Networks and Connections of Academic Scientists”. In: Sri Krishna C. Academic Patents: Emerging Issues and Challenges. ISBN: 8131413497: Icfai University Press (India).
