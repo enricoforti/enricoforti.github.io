@@ -16,11 +16,11 @@ Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a
 
 Enrico Forti is an Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College and a Chazen Visiting Associate research Scholar at Columbia Business School.
 
-His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution and contemporary industries that are migrating toward more fluid and project-based production. His work has been published in leading academic journals, such as Organization Science, Strategic Entrepreneurship Journal, Journal of Product Innovation Management, and Research Policy.
+His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution and contemporary industries that are migrating toward more fluid and project-based production. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
+
+Enrico has taught courses and performed research at various institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. 
 
 He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
-
-Enrico has taught graduate and undergraduate courses at various institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University.
 
 # Publications
 
