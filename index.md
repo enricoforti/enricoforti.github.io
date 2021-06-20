@@ -1,11 +1,10 @@
 # Enrico Forti
-### Computational Social Scientist
+
+![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
 - [x] Assistant professor of Strategy in the O'Malley School of Business at Manhattan College, New York.
 - [x] Chazen Adjunct Associate Research Scholar at Columbia Business School, New York.
 - [x] Lover of sci-fi and synthesizers
-
-![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
 Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a>
 
