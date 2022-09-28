@@ -1,6 +1,6 @@
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
-- Gabrial Hauge Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
+- Gabriel Hauge Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
 - Adjunct Associate Research Scholar - Columbia Business School, Columbia University, New York, NY.
 - Lover of sci-fi and synthesizers
 
@@ -69,7 +69,6 @@ _In preparation for submission._
 
 This paper develops and tests a simple theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of quasi-experiments in the formation of high-level eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the returns to prior competitive interaction are at least three times the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the strategic management of human capital.
 
- 
 **Minimally Innovative Products for Value Capture**
 _—	with: Ching K._
 
