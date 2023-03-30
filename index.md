@@ -66,14 +66,14 @@ The resource-based view of the firm characterizes brands as important resources 
 **Competitive Familiarity: Learning to Coordinate by Competing**
 _—	with: Ching K. and Rawley E._
 
-_In preparation for submission._
+_Revise & Resubmit at Organization Science_
 
 This paper develops and tests a simple theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of quasi-experiments in the formation of high-level eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the returns to prior competitive interaction are at least three times the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the strategic management of human capital.
 
 **Minimally Innovative Products for Value Capture**
 _—	with: Ching K._
 
-_Under Review at Research Policy_
+_Revise & Resubmit at Research Policy_
 
 Competition from replicas challenges firms to capture the value created by product innovation. We examine two key dimensions of product innovation strategy — vertical and horizontal differentiation — to study which types of new products are more or less likely to be copied. Vertical differentiation is achieved by including superior quality attributes whereas horizontal differentiation is achieved by developing new style variants of existing products. We analyze unique hand-collected data that allow to match each new product with its replicas: Gundam plastic model kits, a line of popular products developed and marketed by the Japanese firm Bandai Namco. Controlling for product popularity, price, and other confounders, results show that new style variants that include superior quality attributes are 20% more likely to be copied relative to style variants that do not. We discuss implications for product innovation under weak appropriability regimes.
 
