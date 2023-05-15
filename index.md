@@ -21,7 +21,7 @@ His research program lies at the intersection of strategy and organization theor
 
 Enrico has performed research and taught MBA, Executive MBA, MSc, and undergraduate courses at leading business schools in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. 
 
-He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he has been a full time faculty member in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
+He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he was been a full time faculty member in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
 
 # Publications
 
