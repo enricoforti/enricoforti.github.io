@@ -21,7 +21,7 @@ His research program lies at the intersection of strategy and organization theor
 
 Enrico has performed research and taught MBA, Executive MBA, MSc, and undergraduate courses at leading business schools in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. 
 
-He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he was been a full time faculty member in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
+He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before moving to NYC, he was a full time faculty member in the Strategy & Entrepreneurship group at University College London, UCL School of Management. 
 
 # Publications
 
@@ -47,6 +47,16 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 - Forti E., Franzoni C, Sobrero M. (2007). “The Effect of Patenting on the Networks and Connections of Academic Scientists”. In: Sri Krishna C. Academic Patents: Emerging Issues and Challenges. ISBN: 8131413497: Icfai University Press (India).
 
+# Papers Under Review
+
+- **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Revise & Resubmit at: Administrative Science Quarterly_ 
+
+- **Competitive Familiarity: Learning to Coordinate by Competing.** With: Ching K. and Rawley E. — _Revise & Resubmit at: Organization Science_ 
+  - Finalist - _2022 SMS Annual Conference Strategic Human Capital Best Paper Prize_
+  - Nominee - _2022 SMS Annual Conference Research Method Paper Prize_
+
+- **Minimally Innovative Products for Value Capture.** With: Ching K. — _Revise & Resubmit at: Research Policy_
+
 # Select Abstracts
 
 **Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity**
@@ -70,6 +80,13 @@ _Revise & Resubmit at Organization Science_
 
 This paper develops and tests a simple theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of quasi-experiments in the formation of high-level eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the returns to prior competitive interaction are at least three times the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the strategic management of human capital.
 
+**CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
+_—	with: Piazza A. and Rietveld J._
+
+_Revise & Resubmit at Administrative Science Quarterly_
+
+What makes firms responsive to social issues such as race relations? Existing explanations have largely focused on firm-level attributes as predictors of whether a given social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the saliency of a given social issue may also vary within a firm’s local environment. In particular, for local firms highly embedded in their communities, community-level issue salience can be an important antecedent of firm responsiveness to a given social issue. We build on this intuition to advance a theory that ties firm responsiveness to social issues to the social structure of the local community in which the organization is embedded—i.e., its characteristics and network configuration—and the degree to which the organization depends on the community for its survival. Leveraging a scandal that affected the fitness company CrossFit in 2020, which forced hundreds of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the United States, we find support for our arguments.
+
 **Minimally Innovative Products for Value Capture**
 _—	with: Ching K._
 
@@ -90,11 +107,3 @@ _—	with: Sobrero M. and Vezzulli A._
 _Journal of Product Innovation Management (2020)_ <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521">https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521</a>
 
 Product development teams often face the challenge of designing radically new products that cater at the same time to the revealed tastes and expectations of existing customers. In new product development projects, this tension guides critical choices about continuity or change concerning product attributes and team composition. Research suggests these choices interact, but it is not clear whether they are complements or substitutes and if the level of change in one should match or not the level of change in the other. In this article, we examine the interaction between product attribute change, team change, and a new team-level factor, which we term stream concentration, as it captures differences among team members in terms of familiarity with the knowledge domain of the new product being developed. We assess the effects of stream concentration on the management of change in new product development projects using longitudinal data from the music industry. We analyze 2621 new product development projects between 1962 and 2008 involving 34,265 distinct team members. Results show that stream concentration is a critical factor in new product development projects that, together with product attributes and team composition, affects new product performance. We discuss implications for research and practice.
-
-**CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
-_—	with: Piazza A. and Rietveld J._
-
-_In preparation for submission_
-
-What makes firms responsive to social issues such as race relations? Existing explanations have largely focused on firm-level attributes as predictors of whether a given social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the saliency of a given social issue may also vary within a firm’s local environment. In particular, for local firms highly embedded in their communities, community-level issue salience can be an important antecedent of firm responsiveness to a given social issue. We build on this intuition to advance a theory that ties firm responsiveness to social issues to the social structure of the local community in which the organization is embedded—i.e., its characteristics and network configuration—and the degree to which the organization depends on the community for its survival. Leveraging a scandal that affected the fitness company CrossFit in 2020, which forced hundreds of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the United States, we find support for our arguments.
-
