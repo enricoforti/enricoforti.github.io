@@ -5,7 +5,7 @@
 Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a>
 
 
-  <a href="https://drive.google.com/file/d/1-ax5x4upvNMQjZofTpO81Y5keQic4dLN/view?usp=sharing" target="_blank">CV</a><br/>
+  <a href="https://drive.google.com/open?id=1FZRCPUzBIZqujrJZaRLUnbH7Vh4ORygc" target="_blank">CV</a><br/>
   <a href="https://twitter.com/fortienrico" target="_blank">Twitter</a><br/>
   <a href="https://www.linkedin.com/in/enricoforti" target="_blank">Linkedin</a><br/>
   <a href="https://scholar.google.com/citations?hl=en&amp;user=G4jC5vcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a><br/>
