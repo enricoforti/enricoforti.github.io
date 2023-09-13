@@ -56,6 +56,8 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 - **Minimally Innovative Products for Value Capture.** With: Ching K. — _Revise & Resubmit at: Research Policy_
 
+- **Penalizing Hard-working “Strivers” During Medical Scarcity.** With: Lee J. and Tsay C. — _Under review at: Science_
+
 # Select Abstracts
 
 **Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity**
