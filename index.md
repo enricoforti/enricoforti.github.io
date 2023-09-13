@@ -111,6 +111,6 @@ Product development teams often face the challenge of designing radically new pr
 **Penalizing Hard-working “Strivers” During Medical Scarcity**
 _—	with: Lee J. and Tsay C._
 
-_In preparation for submission._
+_Under review at Science_
 
 Medical and healthcare crises in recent years have illuminated the challenges to fair and equitable access to scarce resources. We present a psychological mechanism that contributes to biased decision-making about healthcare and show that although people believe that one’s “striving” or hard work contributes more to healthcare outcomes, people deem “naturally” able individuals to be more deserving of critical medical care than strivers. Our results yield implications that can help scholars and healthcare practitioners refine and debias decision making, thereby reducing the psychological, health, and moral costs associated with monetary and medical resource allocation decisions under severe constraints.
