@@ -24,6 +24,10 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 # Publications
 
+- Ching K., Forti E., Rawley E. (Forthcoming) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** _Equally contributed. Authors listed in alphabetical order._ 
+  - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
+  - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
+
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
   - Finalist - 2019 SMS Annual Conference Strategic Human Capital Best Paper Prize
@@ -50,11 +54,7 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 - **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Revise & Resubmit at: Administrative Science Quarterly_ 
 
-- **Competitive Familiarity: Learning to Coordinate by Competing.** With: Ching K. and Rawley E. — _Revise & Resubmit at: Organization Science_ 
-  - Finalist - _2022 SMS Annual Conference Strategic Human Capital Best Paper Prize_
-  - Nominee - _2022 SMS Annual Conference Research Method Paper Prize_
-
-- **Minimally Innovative Products for Value Capture.** With: Ching K. — _Revise & Resubmit at: Research Policy_
+- **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability** With: Ching K. — _Revise & Resubmit at: Research Policy_
 
 - **Penalizing Hard-working “Strivers” During Medical Scarcity.** With: Lee J. and Tsay C. — _Under review at: Science_
 
@@ -89,7 +89,7 @@ _Revise & Resubmit at Administrative Science Quarterly_
 
 What makes firms responsive to social issues such as race relations? Existing explanations have largely focused on firm-level attributes as predictors of whether a given social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the saliency of a given social issue may also vary within a firm’s local environment. In particular, for local firms highly embedded in their communities, community-level issue salience can be an important antecedent of firm responsiveness to a given social issue. We build on this intuition to advance a theory that ties firm responsiveness to social issues to the social structure of the local community in which the organization is embedded—i.e., its characteristics and network configuration—and the degree to which the organization depends on the community for its survival. Leveraging a scandal that affected the fitness company CrossFit in 2020, which forced hundreds of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the United States, we find support for our arguments.
 
-**Minimally Innovative Products for Value Capture**
+**Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
 _—	with: Ching K._
 
 _Revise & Resubmit at Research Policy_
