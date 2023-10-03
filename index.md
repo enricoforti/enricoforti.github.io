@@ -60,6 +60,13 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 # Select Abstracts
 
+**Competitive Familiarity: Learning to Coordinate by Competing**
+_—	with: Ching K. and Rawley E._
+
+_Organization Science (provisionally accepted)_
+
+This paper develops and tests a theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of experiments in the formation of eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the marginal returns to prior competitive interaction are even larger than the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the management of human capital.
+
 **Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity**
 _—	with: Ching K. and Rawley E._
 
@@ -73,14 +80,6 @@ _—	with: Munari F. and Zhang C._
 _Strategic Entrepreneurship Journal (2020)_ <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.1318">https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.1318</a>
 
 The resource-based view of the firm characterizes brands as important resources for firm growth and competitive advantage. Existing studies offer theory and evidence that venture capital (VC) backing enhances the growth of new technology ventures along different dimensions. It is not clear, however, whether and how VC backing affects the development of brand assets. In a study of VC-backed and non-VC-backed nanotechnology ventures in the United Kingdom, we find a positive association between VC backing and the development of brand assets. We also find that VC-backed technology ventures tend to create brand assets with a wider scope, which can be deployed across multiple different product-markets.
-
-**Competitive Familiarity: Learning to Coordinate by Competing**
-_—	with: Ching K. and Rawley E._
-
-_Revise & Resubmit at Organization Science_
-
-This paper develops and tests a theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of experiments in the formation of eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the marginal returns to prior competitive interaction are even larger than the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the management of human capital.
-
 
 **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
 _—	with: Piazza A. and Rietveld J._
