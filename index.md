@@ -63,7 +63,7 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 **Competitive Familiarity: Learning to Coordinate by Competing**
 _—	with: Ching K. and Rawley E._
 
-_Organization Science (provisionally accepted)_
+_Organization Science (forthcoming)_
 
 This paper develops and tests a theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of experiments in the formation of eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the marginal returns to prior competitive interaction are even larger than the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the management of human capital.
 
@@ -109,7 +109,7 @@ _Journal of Product Innovation Management (2020)_ <a href="https://onlinelibrary
 
 Product development teams often face the challenge of designing radically new products that cater at the same time to the revealed tastes and expectations of existing customers. In new product development projects, this tension guides critical choices about continuity or change concerning product attributes and team composition. Research suggests these choices interact, but it is not clear whether they are complements or substitutes and if the level of change in one should match or not the level of change in the other. In this article, we examine the interaction between product attribute change, team change, and a new team-level factor, which we term stream concentration, as it captures differences among team members in terms of familiarity with the knowledge domain of the new product being developed. We assess the effects of stream concentration on the management of change in new product development projects using longitudinal data from the music industry. We analyze 2621 new product development projects between 1962 and 2008 involving 34,265 distinct team members. Results show that stream concentration is a critical factor in new product development projects that, together with product attributes and team composition, affects new product performance. We discuss implications for research and practice.
 
-**Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation During Scarcity**
+**Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation Under Scarcity**
 _—	with: Lee J. and Tsay C._
 
 _Under review at Nature_
