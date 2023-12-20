@@ -28,6 +28,8 @@ He received a Ph.D. degree in Management with highest honours from the Universit
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
   - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
 
+- Ching K., Forti E. (Forthcoming) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** _Equally contributed. Authors listed in alphabetical order._
+
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
   - Finalist - 2019 SMS Annual Conference Strategic Human Capital Best Paper Prize
@@ -53,8 +55,6 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 # Papers Under Review
 
 - **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Revise & Resubmit at: Administrative Science Quarterly_ 
-
-- **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability** With: Ching K. — _Revise & Resubmit at: Research Policy_
 
 - **Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation During Scarcity.** With: Lee J. and Tsay C. — _Under review at: Nature_
 
@@ -91,7 +91,7 @@ What makes firms responsive to social issues such as race relations? Existing ex
 **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
 _—	with: Ching K._
 
-_Revise & Resubmit at Research Policy_
+_Research Policy (forthcoming)_
 
 Counterfeiting challenges firms to capture the value created by product innovation. We characterize style and quality as key dimensions of product innovation strategy in contexts where aesthetic attributes drive product success. We examine distinct aesthetic innovation strategies that firms may use to innovate their existing products — developing new style variants, using higher quality attributes, or both. Our empirical test exploits unique data on authentic plastic model kits matched to product-specific counterfeits. Controlling for several confounders, we find that new style variants that include higher quality attributes are 20% more likely to be copied relative to style variants that do not. We discuss implications for aesthetic innovation strategies in weak appropriability regimes.
 
