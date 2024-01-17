@@ -28,13 +28,13 @@ He received a Ph.D. degree in Management with highest honours from the Universit
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
   - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
 
-- Ching K., Forti E. (Forthcoming) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** _Equally contributed. Authors listed in alphabetical order._
+- Ching K.^, Forti E.^, Katsampes S., Mammous K. (Forthcoming) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** _^ These authors contributed equally. Authors listed in alphabetical order._
 
-- Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
+- Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
   - Finalist - 2019 SMS Annual Conference Strategic Human Capital Best Paper Prize
 
-- Forti E, Sobrero M, Vezzulli A. (2020) _Continuity, Change and New Product Performance: The Role of Stream Concentration_. **Journal of Product Innovation Management** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521">https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521</a> [open access]
+- Forti E, Sobrero M, Vezzulli A. (2020) _Continuity, Change and New Product Performance: The Role of Stream Concentration_. **Journal of Product Innovation Management** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521">https://onlinelibrary.wiley.com/doi/abs/10.1111/jpim.12521</a>
 
 - Forti E., Morricone S., Munari F. (2020) _Litigation Risks and Innovation Dynamics after the IPO_. **Journal of Industrial and Business Economics** <a href="https://doi.org/10.1007/s40812-020-00161-y">https://doi.org/10.1007/s40812-020-00161-y</a> 
 
