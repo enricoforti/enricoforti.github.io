@@ -89,7 +89,7 @@ _Revise & Resubmit at Administrative Science Quarterly_
 What makes firms responsive to social issues such as race relations? Existing explanations have largely focused on firm-level attributes as predictors of whether a given social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the saliency of a given social issue may also vary within a firm’s local environment. In particular, for local firms highly embedded in their communities, community-level issue salience can be an important antecedent of firm responsiveness to a given social issue. We build on this intuition to advance a theory that ties firm responsiveness to social issues to the social structure of the local community in which the organization is embedded—i.e., its characteristics and network configuration—and the degree to which the organization depends on the community for its survival. Leveraging a scandal that affected the fitness company CrossFit in 2020, which forced hundreds of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the United States, we find support for our arguments.
 
 **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
-_—	with: Ching K._
+_—	with: Ching K., Katsampes S,  Mammous K._
 
 _Research Policy (forthcoming)_
 
