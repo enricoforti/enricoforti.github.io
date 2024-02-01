@@ -28,7 +28,7 @@ He received a Ph.D. degree in Management with highest honours from the Universit
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
   - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
 
-- Ching K.^, Forti E.^, Katsampes S., Mammous K. (Forthcoming) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** _^ These authors contributed equally. Authors listed in alphabetical order._
+- Ching K.^, Forti E.^, Katsampes S., Mammous K. (2024) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** <a href="https://www.sciencedirect.com/science/article/pii/S0048733323002317">https://www.sciencedirect.com/science/article/pii/S0048733323002317</a> _^ These authors contributed equally. Authors listed in alphabetical order._
 
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
