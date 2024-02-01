@@ -91,7 +91,7 @@ What makes firms responsive to social issues such as race relations? Existing ex
 **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
 _—	with: Ching K., Katsampes S,  Mammous K._
 
-_Research Policy (forthcoming)_
+_Research Policy (2024)_ <a href="https://www.sciencedirect.com/science/article/pii/S0048733323002317">https://www.sciencedirect.com/science/article/pii/S0048733323002317</a>
 
 Counterfeiting challenges firms to capture the value created by product innovation. We characterize style and quality as key dimensions of product innovation strategy in contexts where aesthetic attributes drive product success. We examine distinct aesthetic innovation strategies that firms may use to innovate their existing products — developing new style variants, using higher quality attributes, or both. Our empirical test exploits unique data on authentic plastic model kits matched to product-specific counterfeits. Controlling for several confounders, we find that new style variants that include higher quality attributes are 20% more likely to be copied relative to style variants that do not. We discuss implications for aesthetic innovation strategies in weak appropriability regimes.
 
