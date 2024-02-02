@@ -15,7 +15,7 @@ Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a
 
 Enrico Forti is the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College.
 
-His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution and contemporary industries that are migrating toward project-based production as well as platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
+His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
 
 Enrico has performed research and taught MBA, Executive MBA, MSc, and undergraduate courses at leading business schools in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. 
 
