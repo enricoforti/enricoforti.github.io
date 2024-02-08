@@ -24,11 +24,11 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 # Publications
 
-- Ching K., Forti E., Rawley E. (Forthcoming) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** _Equally contributed. Authors listed in alphabetical order._ 
+- Ching K., Forti E., Rawley E. (2024) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2022.17068">https://doi.org/10.1287/orsc.2022.17068</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
   - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
 
-- Ching K.^, Forti E.^, Katsampes S., Mammous K. (2024) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** <a href="https://www.sciencedirect.com/science/article/pii/S0048733323002317">https://www.sciencedirect.com/science/article/pii/S0048733323002317</a> _^ These authors contributed equally. Authors listed in alphabetical order._
+- Ching K.^, Forti E.^, Katsampes S., Mammous K. (2024) _Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability_ **Research Policy** <a href="https://doi.org/10.1016/j.respol.2023.104947">https://doi.org/10.1016/j.respol.2023.104947</a> _^ These authors contributed equally. Authors listed in alphabetical order._
 
 - Ching K., Forti E., Rawley E. (2021) _Extemporaneous Coordination in Specialist Teams: The Familiarity Complementarity_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2020.1376">https://doi.org/10.1287/orsc.2020.1376</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Nominee - 2019 SMS Annual Conference Best Paper Prize
@@ -56,14 +56,14 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 - **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Revise & Resubmit at: Administrative Science Quarterly_ 
 
-- **Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation During Scarcity.** With: Lee J. and Tsay C. — _Under review at: Nature_
+- **Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation During Scarcity.** With: Lee J. and Tsay C. — _Under review at: PNAS_
 
 # Select Abstracts
 
 **Competitive Familiarity: Learning to Coordinate by Competing**
 _—	with: Ching K. and Rawley E._
 
-_Organization Science (forthcoming)_
+_Organization Science (2024)_ <a href="https://doi.org/10.1287/orsc.2022.17068">https://doi.org/10.1287/orsc.2022.17068</a> [open access] _Equally contributed. Authors listed in alphabetical order._ 
 
 This paper develops and tests a theory of organizational learning, proposing that prior competitive interaction improves coordination amongst teammates. We test the theory using millions of experiments in the formation of eSports teams. The results show that exogenously assigned teams of former competitors are highly effective—the marginal returns to prior competitive interaction are even larger than the returns to prior collaborative interaction. The evidence suggests that teammates learn to coordinate by competing, a finding with implications for organizational design and the management of human capital.
 
@@ -89,9 +89,9 @@ _Revise & Resubmit at Administrative Science Quarterly_
 What makes firms responsive to social issues such as race relations? Existing explanations have largely focused on firm-level attributes as predictors of whether a given social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the saliency of a given social issue may also vary within a firm’s local environment. In particular, for local firms highly embedded in their communities, community-level issue salience can be an important antecedent of firm responsiveness to a given social issue. We build on this intuition to advance a theory that ties firm responsiveness to social issues to the social structure of the local community in which the organization is embedded—i.e., its characteristics and network configuration—and the degree to which the organization depends on the community for its survival. Leveraging a scandal that affected the fitness company CrossFit in 2020, which forced hundreds of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the United States, we find support for our arguments.
 
 **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
-_—	with: Ching K., Katsampes S,  Mammous K._
+_—	with: ^Ching K., Katsampes S,  Mammous K._
 
-_Research Policy (2024)_ <a href="https://www.sciencedirect.com/science/article/pii/S0048733323002317">https://www.sciencedirect.com/science/article/pii/S0048733323002317</a>
+_Research Policy (2024)_ <a href="https://www.sciencedirect.com/science/article/pii/S0048733323002317">https://www.sciencedirect.com/science/article/pii/S0048733323002317</a> [open access] _^ These authors contributed equally. Authors listed in alphabetical order._
 
 Counterfeiting challenges firms to capture the value created by product innovation. We characterize style and quality as key dimensions of product innovation strategy in contexts where aesthetic attributes drive product success. We examine distinct aesthetic innovation strategies that firms may use to innovate their existing products — developing new style variants, using higher quality attributes, or both. Our empirical test exploits unique data on authentic plastic model kits matched to product-specific counterfeits. Controlling for several confounders, we find that new style variants that include higher quality attributes are 20% more likely to be copied relative to style variants that do not. We discuss implications for aesthetic innovation strategies in weak appropriability regimes.
 
@@ -112,7 +112,7 @@ Product development teams often face the challenge of designing radically new pr
 **Naturals over Strivers: Perceived Naturalness affects Healthcare Resource Allocation Under Scarcity**
 _—	with: Lee J. and Tsay C._
 
-_Under review at Nature_
+_Under review at PNAS_
 
 Acute medical crises intensify scrutiny of equitable resource allocation practices. We characterize preference for “naturalness” as a psychological mechanism that may affect decision-making in healthcare settings. Across distinct studies we find that, despite highlighting striving and hard work as important determinants of health outcomes, people deem “naturally” able individuals to be more deserving of medical care than those perceived as “strivers”. The preference for “naturalness” we document in this study yields implications that can help scholars and healthcare practitioners to develop novel strategies for mitigating the psychological, health, and moral consequences of resource allocation under scarcity.
 
