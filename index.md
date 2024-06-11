@@ -2,7 +2,7 @@
 
 - Gabriel Hauge Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
 
-Email for inquiries or just to say: <a href="mailto:e.forti@manhattan.edu">Hi</a>
+Email for inquiries or just to say: <a href="mailto:e.forti@ucl.ac.uk">Hi</a>
 
 
   <a href="https://drive.google.com/file/d/1DzniVT76r93gqtq91txWODoVNL4ZunwH/view?usp=sharing" target="_blank">CV</a><br/>
