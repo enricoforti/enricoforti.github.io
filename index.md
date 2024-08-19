@@ -1,8 +1,8 @@
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
-- Gabriel Hauge Assistant Professor of Strategy - O'Malley School of Business, Manhattan College, New York, NY.
+- Assistant Professor of Strategy - Stillman School of Business, Seton Hall University.
 
-Email for inquiries or just to say: <a href="mailto:e.forti@ucl.ac.uk">Hi</a>
+Email for inquiries or just to say: <a href="mailto:enrico.forti@shu.edu">Hi</a>
 
 
   <a href="https://drive.google.com/file/d/1DzniVT76r93gqtq91txWODoVNL4ZunwH/view?usp=sharing" target="_blank">CV</a><br/>
@@ -13,13 +13,13 @@ Email for inquiries or just to say: <a href="mailto:e.forti@ucl.ac.uk">Hi</a>
 
 # About
 
-Enrico Forti is the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College.
+Enrico Forti is an Assistant Professor of Strategy in the Stillman School of Business at Seton Hall University.
 
 His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
 
-Enrico has performed research and taught MBA, Executive MBA, MSc, and undergraduate courses at leading business schools in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. 
+Enrico has taught courses and performed research at leading institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. He teaches graduate and undergraduate courses in the area of strategy.
 
-He received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Manhattan College, he was a full-time faculty member in the Strategy & Entrepreneurship group at University College London, UCL School of Management and in 2017-2021 served as Chazen Visiting Associate Research Scholar at Columbia Business School.
+Enrico received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Seton Hall University, he was the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College. Previously, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management and served as a Chazen Visiting Associate Research Scholar at Columbia Business School.
  
 
 # Publications
@@ -56,7 +56,7 @@ He received a Ph.D. degree in Management with highest honours from the Universit
 
 - **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Revise & Resubmit at: Administrative Science Quarterly_ 
 
-- **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review at: PNAS_
+- **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
 
 # Select Abstracts
 
@@ -112,7 +112,7 @@ Product development teams often face the challenge of designing radically new pr
 **Naturals over Strivers: Perceived Naturalness affects Resource Allocation**
 _—	with: Lee J. and Tsay C._
 
-_Under review at PNAS_
+_Under review_
 
 Crises intensify scrutiny of resource allocation practices. We characterize a preference for “naturalness” as a psychological mechanism that may affect resource allocation under scarcity. Across a series of tests conducted over four years, including a survey, analyses of 254,259 crowdfunding campaigns, and four experiments in healthcare settings, we find a counterintuitive discrepancy between people’s reported preferences and the outcomes of actual resource allocation decisions. Although striving and hard work are ostensibly prioritized as critical determinants of health outcomes, actual resource allocation across different settings show that beneficiaries perceived to be “naturally” advantaged are generally deemed more deserving of medical care than those perceived as “strivers.” The patterns we report are consistent across both large-scale field studies using observational data and controlled experiments. Furthermore, we report a preference for naturalness across studies of resource allocation decisions about a wide range of individual needs and types of resources, including medications, hospital equipment, and financial support. The preference for naturalness we document in decision makers yields implications that can help scholars and healthcare practitioners develop novel strategies for mitigating the psychological, health, and moral consequences of resource allocation under scarcity.
 
