@@ -1,6 +1,6 @@
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
-- Assistant Professor of Strategy - Stillman School of Business, Seton Hall University.
+- Assistant Professor of Strategy and Director of Research - Stillman School of Business, Seton Hall University.
 
 Email for inquiries or just to say: <a href="mailto:enrico.forti@shu.edu">Hi</a>
 
