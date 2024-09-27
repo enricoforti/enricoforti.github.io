@@ -13,7 +13,7 @@ Email for inquiries or just to say: <a href="mailto:enrico.forti@shu.edu">Hi</a>
 
 # About
 
-Enrico Forti is an Assistant Professor of Strategy in the Stillman School of Business at Seton Hall University.
+Enrico Forti is an Assistant Professor of Strategy and the inaugural Director of Research in the Stillman School of Business at Seton Hall University.
 
 His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
 
@@ -84,7 +84,7 @@ The resource-based view of the firm characterizes brands as important resources 
 **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
 _—	with: Piazza A. and Rietveld J._
 
-_Revise & Resubmit at Administrative Science Quarterly_
+_Revise & Resubmit (2nd Round) at Administrative Science Quarterly_
 
 What makes firms responsive to social issues such as race relations or climate change? Existing explanations have largely focused on firm-level attributes as predictors of whether a social issue will be seen as salient by managers of global corporations, which often face homogenous pressures from stakeholders to act on such issues. Yet, the salience of a social issue may also vary within a firm’s local environment. We advance a theory of "community-level issue salience" that ties firm responsiveness to the social structure of the local community in which a firm is embedded and the degree to which the firm depends on the community for its survival. We test the theory by leveraging a scandal that affected the fitness company CrossFit in 2020, which unexpectedly prompted thousands of locally owned and operated U.S. gyms to take a stance on the thorny issue of race relations in the U.S. Results show that issue salience is greater in communities characterized by lower network closure, lower ethnic segregation, and greater issue connectedness. Firms operating in such communities, in turn, are more likely to respond to a given social issue, particularly in markets where firms show greater dependence on their local community for support. Overall, our study highlights community-level issue salience as an antecedent of firm responsiveness to social issues, underscoring the importance of understanding the heterogeneity of social structures across the communities served by a firm to formulate an effective non-market strategy.
 
@@ -114,6 +114,6 @@ _—	with: Lee J. and Tsay C._
 
 _Under review_
 
-Shortages intensify scrutiny of resource-allocation practices, including in healthcare. Although striving and hard work are ostensibly valued as rationing criteria, actual resource allocation choices in a large-scale field study of 268,679 medical crowdfunding campaigns and in three experiments across different settings show that candidates perceived to be “naturally” advantaged are consistently deemed to be more deserving of healthcare resources than hard-working “strivers.” We observe a preference for naturalness in resource-allocation decisions about a wide range of individual needs and types of resources, including medications, hospital equipment, and financial support. This documented preference for naturalness has important implications for contexts plagued by shortages and rationing. We discuss practical mechanisms that could help health-care decision makers debias decision-making processes and new strategies for addressing the psychological, health, and moral consequences of resource allocation under scarcity.
+Shortages intensify scrutiny of resource-allocation practices. Although striving and hard work are ostensibly valued as rationing criteria, actual resource allocation choices in a large-scale field study of 268,679 medical crowdfunding campaigns and in three experiments across different settings show that candidates perceived to be “naturally” advantaged are consistently deemed to be more deserving of healthcare resources than hard-working “strivers.” We observe a preference for naturalness in resource-allocation decisions about a wide range of individual needs and types of resources, including medications, hospital equipment, and financial support. This documented preference for naturalness has important implications for contexts plagued by shortages and rationing. We discuss practical mechanisms that could help health-care decision makers debias decision-making processes and new strategies for addressing the psychological, health, and moral consequences of resource allocation under scarcity.
 
 
