@@ -25,8 +25,8 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 # Publications
 
 - Forti E, Piazza A., Rietveld J. (2025) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** (in press)
-- Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
-- Best Paper Proceedings, 2025 Academy of Management Meeting
+  - Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
+  - Best Paper Proceedings, 2025 Academy of Management Meeting
 
 - Ching K., Forti E., Rawley E. (2024) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2022.17068">https://doi.org/10.1287/orsc.2022.17068</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
