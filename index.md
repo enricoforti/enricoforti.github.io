@@ -15,7 +15,7 @@ Email for inquiries or just to say: <a href="mailto:enrico.forti@shu.edu">Hi</a>
 
 Enrico Forti is an Assistant Professor of Strategy and the inaugural Director of Research in the Stillman School of Business at Seton Hall University.
 
-His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
+His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in platforms characterized by gig and remote work. His work has been published in leading academic journals, such as _Administrative Science Quarterly_ _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
 
 Enrico has taught courses and performed research at leading institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. He teaches graduate and undergraduate courses in the area of strategy.
 
@@ -23,6 +23,10 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
  
 
 # Publications
+
+- Forti E, Piazza A., Rietveld J. (2025) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** (in press)
+- Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
+- Best Paper Proceedings, 2025 Academy of Management Meeting
 
 - Ching K., Forti E., Rawley E. (2024) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2022.17068">https://doi.org/10.1287/orsc.2022.17068</a> _Equally contributed. Authors listed in alphabetical order._ 
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
@@ -54,8 +58,6 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 
 # Papers Under Review
 
-- **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues.** With: Rietveld J., Piazza A. — _Conditionally Accepted at: Administrative Science Quarterly_ 
-
 - **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
 
 # Select Abstracts
@@ -84,7 +86,7 @@ The resource-based view of the firm characterizes brands as important resources 
 **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
 _—	with: Piazza A. and Rietveld J._
 
-_Conditionally Accepted at Administrative Science Quarterly_
+_Administrative Science Quarterly_ (in press)
 
 How do community characteristics shape organizational responses to social issues? While existing research has focused primarily on firm-level attributes or issue characteristics, we argue that a community's social structure systematically affects how external issues penetrate and resonate locally. We develop a theory of community permeability that links three structural features—network closure, segregation patterns, and issue connectedness—to both the local salience of social issues and subsequent firm responses. Our empirical analysis examines how thousands of locally owned CrossFit gyms responded to their CEO's controversial statements following George Floyd's death in 2020. Results show that issue salience is lower in communities characterized by stronger inward-focused ties and greater ethnic segregation, but higher in communities more directly connected to affected populations. Firms operating in communities where the issue is more salient are more likely to respond, particularly when their dependence on community support is heightened by disruptions unrelated to the issue. Our study reveals how community social structure creates systematic variation in both issue salience and organizational responses, advancing understanding of when and why firms act on social issues.
 
