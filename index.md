@@ -59,6 +59,8 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 # Papers Under Review
 
 - **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
+  - Best Paper Award, HCM Division, 2025 Academy of Management Meeting
+  - Best Paper Proceedings, 2025 Academy of Management Meeting
 
 # Select Abstracts
 
