@@ -24,7 +24,7 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 
 # Publications
 
-- Forti E, Piazza A., Rietveld J. (2025) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** (in press)
+- Forti E, Piazza A., Rietveld J. (2025) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
   - Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
   - Best Paper Proceedings, 2025 Academy of Management Meeting
 
@@ -88,7 +88,7 @@ The resource-based view of the firm characterizes brands as important resources 
 **CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
 _—	with: Piazza A. and Rietveld J._
 
-_Administrative Science Quarterly_ (in press)
+_Administrative Science Quarterly_ (2025) <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
 
 How do community characteristics shape organizational responses to social issues? While existing research has focused primarily on firm-level attributes or issue characteristics, we argue that a community's social structure systematically affects how external issues penetrate and resonate locally. We develop a theory of community permeability that links three structural features—network closure, segregation patterns, and issue connectedness—to both the local salience of social issues and subsequent firm responses. Our empirical analysis examines how thousands of locally owned CrossFit gyms responded to their CEO's controversial statements following George Floyd's death in 2020. Results show that issue salience is lower in communities characterized by stronger inward-focused ties and greater ethnic segregation, but higher in communities more directly connected to affected populations. Firms operating in communities where the issue is more salient are more likely to respond, particularly when their dependence on community support is heightened by disruptions unrelated to the issue. Our study reveals how community social structure creates systematic variation in both issue salience and organizational responses, advancing understanding of when and why firms act on social issues.
 
