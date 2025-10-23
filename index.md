@@ -19,7 +19,7 @@ His research program lies at the intersection of strategy and organization theor
 
 Enrico has taught courses and performed research at leading institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. He teaches graduate and undergraduate courses in the area of strategy.
 
-Enrico received a Ph.D. degree in Management with highest honours from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Seton Hall University, he was the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College. Previously, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management and served as a Chazen Visiting Associate Research Scholar at Columbia Business School.
+Enrico received a Ph.D. in Strategic Management from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Seton Hall University, he was the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College. Previously, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management and served as a Chazen Visiting Associate Research Scholar at Columbia Business School.
  
 
 # Publications
@@ -66,6 +66,13 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 
 # Select Abstracts
 
+**CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
+_—	with: Piazza A. and Rietveld J._
+
+_Administrative Science Quarterly_ (2025) <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
+
+How do community characteristics shape organizational responses to social issues? While existing research has focused primarily on firm-level attributes or issue characteristics, we argue that a community's social structure systematically affects how external issues penetrate and resonate locally. We develop a theory of community permeability that links three structural features—network closure, segregation patterns, and issue connectedness—to both the local salience of social issues and subsequent firm responses. Our empirical analysis examines how thousands of locally owned CrossFit gyms responded to their CEO's controversial statements following George Floyd's death in 2020. Results show that issue salience is lower in communities characterized by stronger inward-focused ties and greater ethnic segregation, but higher in communities more directly connected to affected populations. Firms operating in communities where the issue is more salient are more likely to respond, particularly when their dependence on community support is heightened by disruptions unrelated to the issue. Our study reveals how community social structure creates systematic variation in both issue salience and organizational responses, advancing understanding of when and why firms act on social issues.
+
 **Competitive Familiarity: Learning to Coordinate by Competing**
 _—	with: Ching K. and Rawley E._
 
@@ -86,13 +93,6 @@ _—	with: Munari F. and Zhang C._
 _Strategic Entrepreneurship Journal (2020)_ <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.1318">https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.1318</a>
 
 The resource-based view of the firm characterizes brands as important resources for firm growth and competitive advantage. Existing studies offer theory and evidence that venture capital (VC) backing enhances the growth of new technology ventures along different dimensions. It is not clear, however, whether and how VC backing affects the development of brand assets. In a study of VC-backed and non-VC-backed nanotechnology ventures in the United Kingdom, we find a positive association between VC backing and the development of brand assets. We also find that VC-backed technology ventures tend to create brand assets with a wider scope, which can be deployed across multiple different product-markets.
-
-**CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
-_—	with: Piazza A. and Rietveld J._
-
-_Administrative Science Quarterly_ (2025) <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
-
-How do community characteristics shape organizational responses to social issues? While existing research has focused primarily on firm-level attributes or issue characteristics, we argue that a community's social structure systematically affects how external issues penetrate and resonate locally. We develop a theory of community permeability that links three structural features—network closure, segregation patterns, and issue connectedness—to both the local salience of social issues and subsequent firm responses. Our empirical analysis examines how thousands of locally owned CrossFit gyms responded to their CEO's controversial statements following George Floyd's death in 2020. Results show that issue salience is lower in communities characterized by stronger inward-focused ties and greater ethnic segregation, but higher in communities more directly connected to affected populations. Firms operating in communities where the issue is more salient are more likely to respond, particularly when their dependence on community support is heightened by disruptions unrelated to the issue. Our study reveals how community social structure creates systematic variation in both issue salience and organizational responses, advancing understanding of when and why firms act on social issues.
 
 **Style and Quality: Aesthetic Innovation Strategy under Weak Appropriability**
 _—	with: ^Ching K., Katsampes S,  Mammous K._
