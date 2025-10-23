@@ -56,7 +56,9 @@ Enrico received a Ph.D. degree in Management with highest honours from the Unive
 
 - Forti E., Franzoni C, Sobrero M. (2007). “The Effect of Patenting on the Networks and Connections of Academic Scientists”. In: Sri Krishna C. Academic Patents: Emerging Issues and Challenges. ISBN: 8131413497: Icfai University Press (India).
 
-# Papers Under Review
+# Working Papers
+
+- **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones.** With: Zhang H. and Sands D. — _Under review_
 
 - **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
   - Best Paper Award, HCM Division, 2025 Academy of Management Meeting
@@ -120,4 +122,9 @@ _Under review_
 
 Shortages intensify scrutiny of resource-allocation practices in healthcare settings. Although evaluators ostensibly value striving and hard work as rationing criteria, in actual resource allocation choices in a large-scale field study of 268,679 emergency crowdfunding campaigns and in three experiments, we find that candidates perceived to be more “naturally” advantaged are deemed more deserving of healthcare resources than hard-working “strivers.” We observe a preference for naturalness in resource-allocation decisions across a wide range of situations and types of resources, including medications, hospital equipment, and financial support. This documented preference for naturalness has important implications for contexts plagued by shortages and rationing. We discuss practical mechanisms that could help debias decision-making processes and new strategies for addressing the psychological, health, and moral consequences of resource allocation under scarcity.
 
+**Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones**
+_—	with: Zhang H. and Sands D._
 
+_Under review_
+
+Why does the adoption of new technology vary across seemingly similar contexts? Even in the presence of well-documented benefits and widespread access, diffusion often remains uneven. We propose that adoption is shaped by the micro-geographic embeddedness of exchange relationships. Specifically, we theorize that local exchange—commercial transactions between technology providers and buyers embedded in the same local community—facilitates adoption. We test this idea in the context of contemporary agricultural aviation, where drone operators choose between manual and autonomous flight. Using a novel dataset of more than 300,000 DJI drone flight paths over five years in rural China, we find that operators are significantly more likely to employ autonomous flight when servicing farms located within their own local community. These results highlight the role of local exchange in shaping diffusion dynamics and suggest that technology strategy should account for the spatial and social structure of market transactions. By characterizing the role of local exchange in enabling technology adoption, we contribute to research on technology strategy, economic geography, and innovation diffusion.
