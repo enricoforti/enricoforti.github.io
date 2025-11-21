@@ -29,6 +29,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
   - Best Paper Proceedings, 2025 Academy of Management Meeting
 
 - Ching K., Forti E., Rawley E. (2024) _Competitive Familiarity: Learning to Coordinate by Competing_ **Organization Science** <a href="https://doi.org/10.1287/orsc.2022.17068">https://doi.org/10.1287/orsc.2022.17068</a> _Equally contributed. Authors listed in alphabetical order._ 
+  - Winner - 2025 Bright Idea Award
   - Finalist - 2022 SMS Annual Conference Strategic Human Capital Best Paper Prize
   - Nominee - 2022 SMS Annual Conference Research Method Paper Prize
 
