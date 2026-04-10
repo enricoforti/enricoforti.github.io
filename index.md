@@ -24,7 +24,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 # Publications
 
-- Forti E, Piazza A., Rietveld J. (2025) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
+- Forti E, Piazza A., Rietveld J. (2026) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
   - Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
   - Best Paper Proceedings, 2025 Academy of Management Meeting
   - <a href="https://faculti.net/when-communities-shape-corporate-conscience-how-local-networks-drive-firm-responses-to-social-issues">Interview</a>
