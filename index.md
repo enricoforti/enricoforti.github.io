@@ -1,6 +1,6 @@
 ![Headshot of Enrico](https://www.mgmt.ucl.ac.uk/sites/default/files/styles/sidebar_image/public/profile_photos/forti_enrico-5.jpg)
 
-- Assistant Professor of Strategy and Director of Research - Stillman School of Business, Seton Hall University.
+- Assistant Professor of Strategy - Stillman School of Business, Seton Hall University.
 
 Email for inquiries or just to say: <a href="mailto:enrico.forti@shu.edu">Hi</a>
 
@@ -62,6 +62,8 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 - **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones.** With: Zhang H. and Sands D. — _Under review_
 
+- **Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.** With: Ching K. and Rawley E. — _Under review_
+
 - **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
   - Best Paper Award, HCM Division, 2025 Academy of Management Meeting
   - Best Paper Proceedings, 2025 Academy of Management Meeting
@@ -89,6 +91,13 @@ _Organization Science (2021)_ <a href="https://doi.org/10.1287/orsc.2020.1376">h
 
 Team production is ubiquitous in the economy, but managing teams effectively remains a challenge for many organizations.  This paper studies how familiarity amongst teammates influences the performance of specialist teams, relative to non-specialist teams.  Applying theories of team production to contexts where team members coordinate interdependent activities extemporaneously, we develop predictions about factors that shift the marginal returns to specialization along two dimensions of familiarity: social familiarity and functional familiarity. We test our hypotheses in the context of DOTA2, a major e-sports game where, in some formats, players are exogenously assigned to five-person teams. After analysing nearly 6.5 million matches, we find that specialist teams are relatively more successful when members are more socially and functionally familiar with one another.  The results suggest that the “plug and play” perspective on specialist teams is incomplete; rather, specialization and familiarity are complements in dynamic environments where team members coordinate extemporaneously.
 
+**Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.**
+_—	with: Ching K. and Rawley E._
+
+_In preparation for submission._
+
+How do human teammates coordinate with autonomous agents? We propose that familiarity among human teammates—arising from prior cooperative or competitive interactions—improves performance when teams of AI agents and humans coordinate to complete an interdependent task. We test the theory using data from a robotics competition where exogenously assigned teams compete in matches structured as an autonomous phase, with only agentic coordination among robots, followed by coordination among human teammates to complete the task. Results show that team familiarity improves agentic coordination among autonomous robots and that competitive familiarity is more effective than cooperative familiarity at doing so. Competitive familiarity further improves performance when the handover from autonomous robots to humans is characterized by ambiguous outcomes. The evidence suggests that familiarity among human teammates improves coordination and performance in teams where humans and autonomous robots coordinate to complete interdependent tasks. We discuss implications for research on team learning and agentic coordination.
+
 **Does VC Backing Affect Brand Strategy in New Technology Ventures?**
 _—	with: Munari F. and Zhang C._
 
@@ -103,13 +112,6 @@ _Research Policy (2024)_ <a href="https://www.sciencedirect.com/science/article/
 
 Counterfeiting challenges firms to capture the value created by product innovation. We characterize style and quality as key dimensions of product innovation strategy in contexts where aesthetic attributes drive product success. We examine distinct aesthetic innovation strategies that firms may use to innovate their existing products — developing new style variants, using higher quality attributes, or both. Our empirical test exploits unique data on authentic plastic model kits matched to product-specific counterfeits. Controlling for several confounders, we find that new style variants that include higher quality attributes are 20% more likely to be copied relative to style variants that do not. We discuss implications for aesthetic innovation strategies in weak appropriability regimes.
 
-**To Start or To Finish: Technology Commercialization Strategy under Ambiguity**
-_—	with: Rindova V. and Jong S._
-
-_In preparation for submission._
-
-Scientific breakthroughs create new markets fraught with ambiguity, which makes it challenging for entrepreneurial firms to commit to competitive or cooperative commercialization strategies. They similarly struggle whether to invest their resources in pursuing a single opportunity, or to hedge their bets by pursuing multiple ones. Our inductive study of two start-ups that pioneered the cell therapy market explores how new firms navigate these dilemmas and identifies two key dynamics of ambiguity that affect entrepreneurial strategies in nascent markets: knowledge gaps hinder the execution of cooperative commercialization strategies, whereas noisy feedback strains the pursuit of competitive commercialization strategies. We theorize the effects of two different approaches to managing these frictions: sustained commitment versus opportunistic overreach.
-
 **Continuity, Change and New Product Performance: The Role of Stream Concentration**
 _—	with: Sobrero M. and Vezzulli A._
 
@@ -117,12 +119,12 @@ _Journal of Product Innovation Management (2020)_ <a href="https://onlinelibrary
 
 Product development teams often face the challenge of designing radically new products that cater at the same time to the revealed tastes and expectations of existing customers. In new product development projects, this tension guides critical choices about continuity or change concerning product attributes and team composition. Research suggests these choices interact, but it is not clear whether they are complements or substitutes and if the level of change in one should match or not the level of change in the other. In this article, we examine the interaction between product attribute change, team change, and a new team-level factor, which we term stream concentration, as it captures differences among team members in terms of familiarity with the knowledge domain of the new product being developed. We assess the effects of stream concentration on the management of change in new product development projects using longitudinal data from the music industry. We analyze 2621 new product development projects between 1962 and 2008 involving 34,265 distinct team members. Results show that stream concentration is a critical factor in new product development projects that, together with product attributes and team composition, affects new product performance. We discuss implications for research and practice.
 
-**Naturals over Strivers: Perceived Naturalness Increases Resource Allocation**
+**When Crowds Triage: Perceived “Naturalness” Drives Platform-Mediated Resource Allocation**
 _—	with: Lee J. and Tsay C._
 
 _Under review_
 
-Shortages intensify scrutiny of resource-allocation practices in healthcare settings. Although evaluators ostensibly value striving and hard work as rationing criteria, in actual resource allocation choices in a large-scale field study of 268,679 emergency crowdfunding campaigns and in three experiments, we find that candidates perceived to be more “naturally” advantaged are deemed more deserving of healthcare resources than hard-working “strivers.” We observe a preference for naturalness in resource-allocation decisions across a wide range of situations and types of resources, including medications, hospital equipment, and financial support. This documented preference for naturalness has important implications for contexts plagued by shortages and rationing. We discuss practical mechanisms that could help debias decision-making processes and new strategies for addressing the psychological, health, and moral consequences of resource allocation under scarcity.
+On emergency crowdfunding platforms people provide support for medical needs based on emotionally charged campaigns. Unlike rationing in healthcare settings, which is managed by trained professionals using objective criteria, research has paid relatively limited attention to how nonconscious biases may affect platform-mediated, crowd-based emergency resource allocation. We find evidence of a “naturalness” bias in platform-mediated emergency resource allocation, whereby individuals framed as possessing innate advantages, or “naturals,” receive greater support than otherwise comparable individuals framed as effortful “strivers.” Although evaluators explicitly value striving and hard work as rationing criteria, in a large-scale field study of 268,679 emergency crowdfunding campaigns and in three experiments that manipulate narrative framing and allocation context, we find that candidates perceived to be more “naturally” advantaged are deemed more deserving of support than hard-working “strivers.” Our results are consistent across a wide range of situations spanning multiple years of inquiry and types of resources, including medications, hospital equipment, and financial support. By highlighting a social-psychological bias that may affect platform-mediated resource allocation, we offer actionable implications for platform design to mitigate inequities under scarcity.
 
 **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones**
 _—	with: Zhang H. and Sands D._
