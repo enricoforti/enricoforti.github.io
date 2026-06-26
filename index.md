@@ -64,7 +64,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 - **Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.** With: Ching K. and Rawley E. — _Under review_
 
-- **Naturals over Strivers: Perceived Naturalness affects Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
+- **Naturals over Strivers: Perceived Naturalness Drives Platform-Mediated Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
   - Best Paper Award, HCM Division, 2025 Academy of Management Meeting
   - Best Paper Proceedings, 2025 Academy of Management Meeting
 
@@ -119,7 +119,7 @@ _Journal of Product Innovation Management (2020)_ <a href="https://onlinelibrary
 
 Product development teams often face the challenge of designing radically new products that cater at the same time to the revealed tastes and expectations of existing customers. In new product development projects, this tension guides critical choices about continuity or change concerning product attributes and team composition. Research suggests these choices interact, but it is not clear whether they are complements or substitutes and if the level of change in one should match or not the level of change in the other. In this article, we examine the interaction between product attribute change, team change, and a new team-level factor, which we term stream concentration, as it captures differences among team members in terms of familiarity with the knowledge domain of the new product being developed. We assess the effects of stream concentration on the management of change in new product development projects using longitudinal data from the music industry. We analyze 2621 new product development projects between 1962 and 2008 involving 34,265 distinct team members. Results show that stream concentration is a critical factor in new product development projects that, together with product attributes and team composition, affects new product performance. We discuss implications for research and practice.
 
-**When Crowds Triage: Perceived “Naturalness” Drives Platform-Mediated Resource Allocation**
+**Naturals over Strivers: Perceived Naturalness Drives Platform-Mediated Resource Allocation**
 _—	with: Lee J. and Tsay C._
 
 _Under review_
