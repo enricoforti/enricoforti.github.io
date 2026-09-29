@@ -24,7 +24,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 # Publications
 
-- Forti E, Piazza A., Rietveld J. (2026) _CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues._ **Administrative Science Quarterly** <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
+- Forti E, Piazza A., Rietveld J. (2026) _CrossFit in the Crosshairs: A Community-Embedded Theory of Firm Responsiveness to Social Issues._ **Administrative Science Quarterly** <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
   - Best Paper on Environmental and Social Practices Award, OMT Division, 2025 Academy of Management Meeting
   - Best Paper Proceedings, 2025 Academy of Management Meeting
   - <a href="https://faculti.net/when-communities-shape-corporate-conscience-how-local-networks-drive-firm-responses-to-social-issues">Interview</a>
@@ -62,7 +62,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 - **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones.** With: Zhang H. and Sands D. — _Under review_
 
-- **Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.** With: Ching K. and Rawley E. — _Under review_
+- **Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.** With: Ching K. and Rawley E. — _In preparation for submission_
 
 - **Naturals over Strivers: Perceived Naturalness Drives Platform-Mediated Resource Allocation.** With: Lee J. and Tsay C. — _Under review_
   - Best Paper Award, HCM Division, 2025 Academy of Management Meeting
@@ -70,7 +70,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 # Select Abstracts
 
-**CrossFit in the Crosshairs: A Community-Embedded Theory of Organizational Responsiveness to Social Issues**
+**CrossFit in the Crosshairs: A Community-Embedded Theory of Firm Responsiveness to Social Issues**
 _—	with: Piazza A. and Rietveld J._
 
 _Administrative Science Quarterly_ (2026) <a href="https://doi.org/10.1177/00018392251360671">https://doi.org/10.1177/00018392251360671</a>
