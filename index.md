@@ -60,7 +60,7 @@ Enrico received a Ph.D. in Strategic Management from the University of Bologna a
 
 # Working Papers
 
-- **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones.** With: Zhang H. and Sands D. — _Under review_
+- **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones.** With: Zhang H. and Sands D. — _Revise and resubmit at Strategic Entrepreneurship Journal_
 
 - **Ghost in the Shell: Team Familiarity Improves Human-Machine Coordination.** With: Ching K. and Rawley E. — _In preparation for submission_
 
@@ -129,6 +129,6 @@ On emergency crowdfunding platforms people provide support for medical needs bas
 **Local Exchange and Technology Adoption: Evidence from the Diffusion of Autonomous Flight in Agricultural Aviation Drones**
 _—	with: Zhang H. and Sands D._
 
-_Under review_
+_Revise and resubmit at Strategic Entrepreneurship Journal_
 
 Why does the adoption of new technology vary across seemingly similar contexts? Even in the presence of well-documented benefits and widespread access, diffusion often remains uneven. We propose that adoption is shaped by the micro-geographic embeddedness of exchange relationships. Specifically, we theorize that local exchange—commercial transactions between technology providers and buyers embedded in the same local community—facilitates adoption. We test this idea in the context of contemporary agricultural aviation, where drone operators choose between manual and autonomous flight. Using a novel dataset of more than 300,000 DJI drone flight paths over five years in rural China, we find that operators are significantly more likely to employ autonomous flight when servicing farms located within their own local community. These results highlight the role of local exchange in shaping diffusion dynamics and suggest that technology strategy should account for the spatial and social structure of market transactions. By characterizing the role of local exchange in enabling technology adoption, we contribute to research on technology strategy, economic geography, and innovation diffusion.
