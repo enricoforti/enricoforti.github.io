@@ -17,9 +17,9 @@ Enrico Forti is an Assistant Professor of Strategy and the inaugural Director of
 
 His research program lies at the intersection of strategy and organization theory with a specific interest in strategy evolution in entrepreneurial ventures and coordination and performance in contexts characterized by gig and remote work. His work has been published in leading academic journals, such as _Administrative Science Quarterly_, _Organization Science_, _Strategic Entrepreneurship Journal_, _Journal of Product Innovation Management_, and _Research Policy_.
 
-Enrico has taught courses and performed research at leading institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. He teaches graduate and undergraduate courses in the area of strategy.
+Enrico has taught courses and performed research at leading institutions in the US, UK, EU, and China, including Columbia Business School, the UCL School of Management at University College London, the University of Bologna, and Peking University. He received a Ph.D. in Strategic Management from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Seton Hall University, he was the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan University. Previously, he was a Lecturer in the Strategy & Entrepreneurship group at UCL School of Management and served as a Chazen Visiting Associate Research Scholar at Columbia Business School. 
 
-Enrico received a Ph.D. in Strategic Management from the University of Bologna and was a visiting doctoral student at London Business School. Before joining Seton Hall University, he was the Gabriel Hauge Assistant Professor of Strategy in the O’Malley School of Business at Manhattan College. Previously, he was a Lecturer in the Strategy & Entrepreneurship group at University College London, UCL School of Management and served as a Chazen Visiting Associate Research Scholar at Columbia Business School.
+He teaches graduate and undergraduate courses in the area of strategy.
  
 
 # Publications
